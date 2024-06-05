@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "React-master"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "React-master"
+	}
+}
